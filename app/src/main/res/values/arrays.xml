@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<array name="type">
+    <item>Cr</item>
+    <item>Dr</item>
+</array>
+    <!--
+    String[] values1 ={"","", "",""};
+
+        String[] values2 ={"", "Beverages","Cable and Satellite TV","Computer and related",
+        "Consumables","Conveyance","Electricity","Food","Fuel","Furniture","Insurance","Internet","Maintenance and repair","Phone","Rent","Repair and Servicing","Water"};
+
+        String[] values3 ={"","", "Cheque","Credit-card","Online Transfer"};
+    -->
+
+
+
+    <array name="demos1">
+        <item>ca</item>
+        <item>de</item>
+        <item>dep</item>
+        <item>rur</item>
+        <item>safe</item>
+        <item>sal</item>
+        <item>sav</item>
+
+    </array>
+
+
+    <array name="loanstxt">
+        <item>buss</item>
+        <item>car</item>
+        <item>edu</item>
+        <item>gol</item>
+        <item>gov</item>
+        <item>hom</item>
+        <item>loan</item>
+        <item>per</item>
+        <item>rur</item>
+        <item>two</item>
+
+    </array>
+
+
+
+    <array name="insurancetxt">
+        <item>health</item>
+        <item>home</item>
+        <item>life</item>
+        <item>motor</item>
+        <item>travel</item>
+    </array>
+    <array name="expense_category">
+        <item>----Select----</item>
+        <item>Rent or Lease</item>
+        <item>Wages</item>
+        <item>Utilities</item>
+    </array>
+    <array name="expense_sub_category">
+        <item>----Select----</item>
+        <item>Beverages</item>
+        <item>Cable and Satellite TV</item>
+        <item>Computer and related</item>
+        <item>Consumables</item>
+        <item>Conveyance</item>
+        <item>Electricity</item>
+        <item>Food</item>
+        <item>Fuel</item>
+        <item>Furniture</item>
+        <item>Insurance</item>
+        <item>Internet</item>
+        <item>Maintenance and repair</item>
+        <item>Phone</item>
+        <item>Rent</item>
+        <item>Repair and Servicing</item>
+        <item>Water</item>
+    </array>
+    <array name="payment_type">
+        <item>----Select----</item>
+        <item>Cash</item>
+        <item>Cheque</item>
+        <item>Credit-card</item>
+        <item>Online Transfer</item>
+    </array>
+    <array name="cloth_type">
+        <item>---Select Product---</item>
+        <item>Saree</item>
+        <item>Suits</item>
+        <item>Shawls</item>
+    </array>
+    <!--<array name="cloth_type">
+        <item>-&#45;&#45;Select Product-&#45;&#45;</item>
+        <item>Saree</item>
+        <item>Suits</item>
+        <item>Sweaters</item>
+        <item>Shawls</item>
+        <item>Salwar</item>
+        <item>Kurti</item>
+        <item>Pajama</item>
+        <item>Lehenga</item>
+        <item>Choli</item>
+        <item>Lehenga Choli</item>
+    </array>-->
+</resources>

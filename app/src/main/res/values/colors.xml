@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#367AB9</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="background">#0A51AB</color>
+    <color name="orange">#EA9247</color>
+    <color name="purple">#9B79FD</color>
+    <color name="Sky_Blue">#02CDFF</color>
+    <color name="Pink">#EF649E</color>
+    <color name="Green">#04BB88</color>
+    <color name="blue_1">#0EC5E3</color>
+    <color name="imageview7">#26C6DA</color>
+    <color name="yellow">#D5BB59</color>
+    <color name="colorWlighte">#a3b8ef</color>
+    <color name="header">#FED53F</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="pink2">#009DDC</color>
+    <color name="sky_blue2">#2DBADE</color>
+    <color name="purple2">#A68FD3</color>
+    <color name="purple3">#A500AD</color>
+    <color name="Dark_Green">#11B166</color>
+    <color name="Green2">#2EA593</color>
+    <color name="green3">#00A500</color>
+    <color name="orange2">#DC572E</color>
+    <color name="red2">#BE1E4B</color>
+    <color name="red">#FF3459</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#ec2121</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#95ef62</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#ffee00</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#5ce4d7</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="green">#00cbca</color>
+    <color name="blue">#019aea</color>
+    <color name="light_black">#191919</color>
+    <color name="lightest_black">#323232</color>
+    <color name="light_blue">#367AB9</color>
+    <color name="dark_gray">#454545</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="bg">#1c3b4f</color>
+    <color name="finder_mask">#60000000</color>
+    <color name="rea">#ffff0000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="color1">#355C7D</color>
+    <color name="color2">#9B79FD</color>
+    <color name="color3">#C06C84</color>
+    <color name="color4">#F67280</color>
+    <color name="color5">#F8B195</color>
+    <color name="color6">#E78A61</color>
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textGray">#8B999F</color>
+    <color name="colorPrimary1">#bdc3c7</color>
+    <color name="bg_gray">#cfcece</color>
+    <color name="colorWhite">#2c4b9a</color>
+    <color name="selected_register">#00B5C8</color>
+    <color name="yellow_theme">#FDB306</color>
+    <color name="btn_color">#f9d342</color>
+    <color name="jbtn_color">#1976D2</color>
+    <color name="blue_dark">#0288d1</color>
+    <color name="cyan">#00bcd4</color>
+    <color name="cyan_dark">#0097a7</color>
+    <color name="gray">#616161</color>
+    <color name="gray_dark">#424242</color>
+    <color name="green_dark">#388e3c</color>
+    <color name="indigo">#3f51b5</color>
+    <color name="indigo_dark">#303f9f</color>
+    <color name="purple_dark">#512da8</color>
+    <color name="red_dark">#d32f2f</color>
+    <color name="panel_1_light">#fafafa</color>
+    <color name="panel_1_dark">#303030</color>
+    <color name="panel_2_light">#eeeeee</color>
+    <color name="panel_2_dark">#424242</color>
+    <color name="oil_light">#444444</color>
+    <color name="style_color_primary">#449D44</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="paint_color">#dddddd</color>
+    <color name="bg_color">#dedede</color>
+    <color name="cal_volilet">#D058E8</color>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <color name="background_color_red">#e5ff0000</color>
+
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <color name="dot_dark_screen1">#515151</color>
+    <color name="dot_dark_screen2">#515151</color>
+    <color name="dot_dark_screen3">#515151</color>
+    <color name="dot_dark_screen4">#515151</color>
+
+    <color name="dot_light_screen1">#000</color>
+    <color name="dot_light_screen2">#000</color>
+    <color name="dot_light_screen3">#000</color>
+    <color name="dot_light_screen4">#000</color>
+    <color name="orangelight">#FF6250</color>
+    <color name="whiteblue">#F1F5F6</color>
+    <color name="dot_inactive">#E1E7EB</color>
+    <color name="dot_active">#A1ABB2</color>
+    <color name="separator">#D0D4D9</color>
+    <color name="whitegrey">#F9F9F9</color>
+    <color name="btn_context_menu_normal">#ffffff</color>
+    <color name="bg_gradient_end">#a62a29</color>
+    <color name="btn_context_menu_text_red">#ffff0000</color>
+    <color name="btn_context_menu_pressed">#40000000</color>
+
+    <color name="colorPrimaryNight">#212121</color>
+    <color name="colorPrimaryDarkNight">#000000</color>
+    <color name="colorAccentNight">#449D44</color>
+    <color name="primaryTitleColorNight">#FFFFFF</color>
+    <color name="primaryDescriptionColorNight">#B3FFFFFF</color>
+    <color name="primaryDateColorNight">#B3FFFFFF</color>
+    <color name="primaryBackgroundColorNight">#303030</color>
+    <color name="primaryCardBackgroundColorNight">#424242</color>
+
+
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+</resources>

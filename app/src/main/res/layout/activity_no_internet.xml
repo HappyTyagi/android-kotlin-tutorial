@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="100"
+    android:orientation="vertical"
+    tools:context=".view.NoInternet">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="40"
+        android:gravity="center|bottom"
+        android:weightSum="100">
+
+        <ImageView
+            android:layout_width="@dimen/_151sdp"
+            android:layout_height="@dimen/_111sdp"
+            android:background="@drawable/oops" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_weight="60"
+        android:gravity="center|top"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:gravity="center"
+            android:text="@string/oops"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_21sdp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:gravity="center"
+            android:text="@string/no_conn"
+            android:textStyle="italic"
+            android:textColor="@color/gray_dark"
+            android:textSize="@dimen/_16sdp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:gravity="center"
+            android:text="@string/check_conn"
+            android:textStyle="italic"
+            android:textColor="@color/gray_dark"
+            android:textSize="@dimen/_16sdp" />
+
+
+        <Button
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_65sdp"
+            android:layout_marginRight="@dimen/_65sdp"
+            android:layout_marginTop="@dimen/_80sdp"
+            android:background="@drawable/round_blue"
+            android:gravity="center"
+            android:text="@string/retry"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp"
+            android:textStyle="bold"></Button>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

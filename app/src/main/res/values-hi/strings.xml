@@ -1,0 +1,612 @@
+<resources>
+    <string name="app_name1">RetailPosMobile</string>
+    <string name="app_name">IndySoft POS</string>
+    <string name="fsv.transition.search.layout">fsv_transition_search_layout</string>
+    <string name="search_product">शोध उत्पादन</string>
+    <string name="date">तारीख</string>
+    <string name="invoice_num">चलन क्रमांक:-</string>
+    <string name="inv_num">चलन क्रमांक-</string>
+    <string name="rupees">\u20B9</string>
+
+    <string name="product_name">उत्पादनाचे नांव</string>
+    <string name="units">युनिट्स</string>
+    <string name="product_id">उत्पादन आयडी</string>
+    <string name="qty">प्रमाण</string>
+    <string name="tax_percent">कर (%)</string>
+    <string name="amt">रक्कम</string>
+    <string name="amount">रक्कम</string>
+    <string name="disc">सवलत.</string>
+    <string name="taxable_amount">करपात्र रक्कम :-</string>
+    <string name="total_tax">एकूण कर :-</string>
+    <string name="cgst">सीजीएसटी:-</string>
+    <string name="sgst">एसजीएसटी:-</string>
+    <string name="upload_invoice_list">इनव्हॉइस यादी अपलोड करा</string>
+    <string name="print_barcode_list">मुद्रण करा Barcode</string>
+    <string name="sync_updated_price_list">अद्यतनित मूल्य सूची समक्रमित करा</string>
+    <string name="total_tax_amnt">एकूण कर</string>
+    <string name="total_amount">एकूण रक्कम</string>
+    <string name="proceeds">पुढे चला</string>
+    <string name="print">मुद्रण करा</string>
+    <string name="igst_mode">IGST सक्षम करा</string>
+    <string name="inventory_manage">इन्व्हेंटरी Manage</string>
+    <string name="edit_mrp">संपादनयोग्य एमआरपी</string>
+    <string name="search_here">येथे उत्पादन शोधा</string>
+    <string name="upload_master_data">मास्टर डेटा अपलोड करा</string>
+    <string name="credit_sales">क्रेडिट विक्री</string>
+    <string name="cashier_login">रोखपाल लॉग इन</string>
+    <string name="cashier_reg">रोखपाल नोंदणी</string>
+    <string name="cash">रोख</string>
+    <string name="card">कार्ड</string>
+    <string name="wallet">वॉलेट</string>
+    <string name="cheque">तपासा</string>
+    <string name="discount">सवलत</string>
+    <string name="loyalty">निष्ठा</string>
+    <string name="crm">CRM</string>
+    <string name="counter_wise_printing">काउंटर-वार मुद्रण करा</string>
+
+    <string name="rescan">स्कॅन करा</string>
+    <string name="creditsales">क्रेडिट विक्री</string>
+    <string name="enable_imei">सक्षम करा IMEI/SR No.</string>
+    <string name="enable_tax">सक्षम करा कर</string>
+    <string name="inclusive">आहे कर समावेशक</string>
+    <string name="internal">अंतर्गत</string>
+    <string name="external">बाह्य</string>
+    <string name="cheque_details">तपासा तपशील</string>
+    <!--instruction-->
+    <string name="toast_1">व्यवहार प्रिंट करा, एआयडीएल मोडचा वापर करा!</string>
+    <string name="toast_2">The service has been disconnected!</string>
+    <string name="toast_3">Bluetooth device is unavailable</string>
+    <string name="toast_4">Bluetooth device not detected. Please open Bluetooth!</string>
+    <string name="toast_5">Not Found InnterPrinter!</string>
+    <string name="toast_6">Bluetooth connect failed!</string>
+    <string name="toast_7"> Only a single Qr code is printed for the AIDL mode</string>
+    <string name="toast_8">Now QrCode size must be less than 7!</string>
+
+
+    <string name="split">स्प्लिट</string>
+    <string name="reports">अहवाल</string>
+    <string name="payments">देयके</string>
+    <string name="end_of_day">दिवसाची समाप्ती</string>
+    <string name="day_end_report">दिवस अखेरीस अहवाल</string>
+    <string name="item_wise_report">आयटम ज्ञानी अहवाल</string>
+    <string name="select_date">निवडा तारीख</string>
+    <string name="sales">विक्री</string>
+    <string name="enter_name">नाव प्रविष्ट करा</string>
+    <string name="enter_bankname"> बँक नाव प्रविष्ट करा</string>
+    <string name="enter_id">आयडी प्रविष्ट करा</string>
+    <string name="enter_cheque_number">नंबर तपासा प्रविष्ट करा</string>
+    <string name="enter_paid_amount">देय रक्कम प्रविष्ट करा</string>
+    <string name="rate_per_item">दर/आयटम</string>
+
+    <string name="item">आयटम</string>
+    <string name="quantity">प्रमाण</string>
+    <string name="hsn">एचएसएन</string>
+    <string name="discnt">सवलत</string>
+    <string name="tax">कर</string>
+    <string name="export_to_excel">एक्सेल मध्ये निर्यात करा</string>
+    <string name="show_stock">स्टॉक दर्शवा</string>
+    <string name="total_product_value">एकूण उत्पादन मूल्य:</string>
+    <string name="discnt_on_total">सवलत on एकूण:</string>
+    <string name="total_tax_">एकूण कर:</string>
+    <string name="rounding">Rounding:</string>
+    <string name="total_sales">एकूण विक्री:</string>
+    <string name="sales_tax_summary">विक्री कर Summary</string>
+    <string name="cgst_">सीजीएसटी चालू उप एकूण:</string>
+    <string name="sgst_">एसजीएसटी चालू उप एकूण:</string>
+    <string name="payment_collection">देयके संकलन</string>
+    <string name="cash_">रोख:</string>
+    <string name="payment_recieved">एकूण पैसे मिळाले:</string>
+
+    <string name="name">नाव</string>
+    <string name="under">अंतर्गत</string>
+    <string name="order_complete">मागणी पूर्ण</string>
+    <string name="amount_">रक्कम   :</string>
+    <string name="tax_amnt">कर रक्कम. :</string>
+    <string name="shareinvoice">शेअर सामायिक करा.</string>
+    <string name="mobikwik">Mobikwik वॉलेट</string>
+    <string name="phone_pay">PhonePe वॉलेट</string>
+    <string name="Oxigen_pay">Oxigen  वॉलेट</string>
+    <string name="paytm_wallet">Paytm वॉलेट</string>
+    <string name="payworld">Payworld वॉलेट</string>
+
+    <string name="enter_mobile_number">मोबाइल नंबर प्रविष्ट करा</string>
+    <string name="enter_imei_number">MEI नंबर प्रविष्ट करा</string>
+    <!--                              accounting screen                         -->
+    <string name="accounting">लेखा</string>
+    <string name="master">मास्टर्स</string>
+    <string name="account_master">मास्टर्स खाते</string>
+    <string name="vouchers">व्हाउचर</string>
+    <string name="receipts">पावत्या</string>
+    <string name="journal">जर्नल</string>
+    <string name="contra">कॉन्ट्रा</string>
+    <string name="reports_">अहवाल</string>
+    <string name="purchase">खरेदी करा</string>
+    <string name="day_book">दिवस पुस्तक</string>
+    <string name="ledger">लेजर</string>
+    <string name="cash_bank">रोख/बँक Book</string>
+    <string name="group_summary">गट सारांश</string>
+    <string name="register">नोंदणी करा</string>
+    <string name="list_account">यादी खाते</string>
+    <string name="address_book">पत्ता पुस्तक</string>
+    <string name="trial_balance">चाचणी संतुलन</string>
+    <string name="final_report">अंतिम अहवाल</string>
+    <string name="balance">शिल्लक</string>
+    <string name="tin_gst">TIN/जीएसटी No</string>
+    <string name="under_group">अंतर्गत गट</string>
+    <string name="type_">प्रकार</string>
+    <string name="transaction">व्यवहार</string>
+    <string name="dates">तारीख</string>
+    <string name="type">प्रकार</string>
+    <string name="total">एकूण</string>
+    <string name="money_in">पैसे मध्ये</string>
+    <string name="money_out">पैसे Out</string>
+    <string name="total_cash_in_amnt">एकूण रोख-मध्ये रक्कम:</string>
+    <string name="total_cash_out_amnt">एकूण रोख-बाहेर रक्कम:</string>
+    <string name="set_date">तारीख सेट करा</string>
+    <string name="default_money">\u20B90</string>
+    <string name="address">पत्ता</string>
+    <string name="contact">संपर्क साधा</string>
+    <string name="state">राज्य</string>
+    <string name="email_address">ईमेल पत्ता</string>
+    <string name="opening_stock_date">उघडत स्टॉक तारीख</string>
+    <string name="opening_stock">उघडत आहे स्टॉक</string>
+    <string name="closing_stock_date">Closing स्टॉक तारीख</string>
+    <string name="closing_stock">बंद स्टॉक</string>
+    <string name="search">शोध</string>
+    <string name="update">अद्यतन करा</string>
+    <string name="save">जतन करा</string>
+
+    <string name="party_cash">पार्टी/रोख</string>
+    <string name="purchase_ac">खरेदी करा A/c</string>
+    <string name="sales_ac">विक्री A/c</string>
+    <string name="tax_1_name">कर 1 नाव</string>
+    <string name="tax_2_name">कर 2 नाव</string>
+    <string name="less_1_name">Less 1 नाव</string>
+    <string name="less_2_name">Less 2 नाव</string>
+    <string name="grand_total">Grand एकूण</string>
+    <string name="voucher_type">व्हाउचर. प्रकार</string>
+    <string name="voucher_number">व्हाउचर. No.</string>
+    <string name="debit">डेबिट</string>
+    <string name="crdt">क्रेडिट</string>
+    <string name="cr">Cr</string>
+    <string name="db">Db</string>
+    <string name="runn_balance">रनिंग बॅलन्स</string>
+    <string name="runn_balance_">चालत आहे. शिल्लक.</string>
+    <string name="day_book_report">डे बुक अहवाल</string>
+    <string name="opening_balance">उघडत आहे शिल्लक : </string>
+    <string name="current_total">वर्तमान एकूण : </string>
+    <string name="closing_balan">बंद शिल्लक : </string>
+    <string name="select_ledger">निवडा लेजर</string>
+
+
+    <string name="all">सर्व</string>
+    <string name="gross">Gross</string>
+    <string name="add_tax1">जोडा. कर 1</string>
+    <string name="add_tax2">जोडा. कर 2</string>
+    <string name="less_tax1">कमी कर 1</string>
+    <string name="less_tax2">कमी कर 2</string>
+    <string name="cash_bank_book_report">रोख/बँक बुक अहवाल</string>
+    <string name="default_amount">0.00</string>
+    <string name="profit_loss">नफा \u0026 नुकसान</string>
+    <string name="balance_sheet">बॅलन्स शीट</string>
+
+    <string name="from_date">कडून तारीख :</string>
+    <string name="to_date">करण्यासाठी तारीख :</string>
+    <string name="from_date_">कडून तारीख</string>
+    <string name="to_date_">करण्यासाठी तारीख</string>
+    <string name="gst">जीएसटी</string>
+    <string name="sale_invoice">विक्री चलन</string>
+    <string name="purchase_invoice">खरेदी करा चलन</string>
+    <string name="monthly_filling">मासिक भरणे</string>
+    <string name="receipt_voucher">पावती व्हाउचर</string>
+    <string name="current_period">वर्तमान कालावधी </string>
+    <string name="particular">तपशील</string>
+    <string name="part">तपशील.</string>
+    <string name="credit">क्रेडिट</string>
+    <string name="dr_">Dr.</string>
+    <string name="cr_">Cr.</string>
+    <string name="cr_to">Cr / To </string>
+    <string name="dr_by">Dr / By </string>
+    <string name="sale">विक्री</string>
+    <string name="narrartion">कथन</string>
+    <string name="sno">क्रमांक क्र</string>
+    <string name="closeDrawer">नेव्हिगेशन पहा</string>
+    <string name="openDrawer">नेव्हिगेशन पहा बंद</string>
+
+
+    <!--   Printer Activity            -->
+
+
+    <string name="printer_finish">The print data is complete</string>
+    <string name="printer_need_paper">The printer is out of paper,Please load paper and try again</string>
+    <string name="printer_gray1">Set the printer grayscale to level 1</string>
+    <string name="printer_gray1_success">Set the printer grayscale to level 1 success</string>
+    <string name="printer_gray_exception">Exception occurred in Setting the printer grayscale</string>
+    <string name="printer_gray2">Set the printer grayscale to level 2</string>
+    <string name="printer_gray2_success">Set the printer grayscale to level 2 success</string>
+    <string name="printer_gray3">Set the printer grayscale to level 3</string>
+    <string name="printer_gray3_success">Set the printer grayscale to level 3 success</string>
+    <string name="printer_gray4">Set the printer grayscale to level 4</string>
+    <string name="printer_gray4_success">Set the printer grayscale to level 4 success</string>
+    <string name="printer_textsize_bigger">The font gets larger test data</string>
+    <string name="printer_textsize_blod">Bold print test data</string>
+    <string name="printer_left">Print the test data to left</string>
+    <string name="printer_center">Print the test data to center</string>
+    <string name="printer_right">Print the test data to right</string>
+    <string name="printer_underline">Underline test data</string>
+    <string name="printer_amount">रक्कम:</string>
+    <string name="printer_newline">Newline test data</string>
+    <string name="printer_acceptorid_name">Business Name Test Data</string>
+    <string name="printer_line_distance">Line spacing and character spacing content adjustment</string>
+    <string name="printer_left_distance">Left margin</string>
+    <string name="printer_device_busy">The printer device is busy</string>
+    <string name="printer_success">Print success</string>
+    <string name="printer_lack_paper">The printer is out of paper</string>
+    <string name="printer_over_heigh">The printer is overheating</string>
+    <string name="printer_over_heat">The printer is hot</string>
+    <string name="printer_low_power">The printer is low on power</string>
+    <string name="printer_other_exception_code">Other exceptions, exception code:</string>
+    <string name="printer_spit_success">The printer spit paper success</string>
+    <string name="printer_spit_exception">The printer spit paper exception:</string>
+    <string name="printer_status_exception">Exception occurred in getting the printer status</string>
+    <string name="printer_init_success">Initialize the print parameters success</string>
+    <string name="printer_init_exception">Initialization of printer parameters failed</string>
+    <string name="printer_textsize_normal">Normal font</string>
+    <string name="printer_textsize_small">Small font</string>
+    <string name="printer_texisize_higher">Times higher</string>
+    <string name="printer_textsize_wider">Times wide</string>
+    <string name="printer_higher_wider">Times highe and times wide</string>
+    <string name="print_qr_code">QR Code</string>
+    <string name="input_qrcode_msg">QR code information, no input default print 450 characters</string>
+    <string name="bind_service_fail">Bind service failed</string>
+    <string name="bind_service_success">Bind service success</string>
+    <string name="TextView">TextView</string>
+
+
+    <string name="save_all">जतन करा सर्व</string>
+    <string name="sub_total">उप एकूण</string>
+    <string name="amount_include_gst">रक्कम समावेश करणे जीएसटी</string>
+    <string name="user_name">वापरकर्ता नाव :</string>
+
+    <string name="rate">दर(%)</string>
+
+    <string name="invoice_number">चलन क्रमांक:-  </string>
+    <string name="item_name">आयटम नाव</string>
+
+    <string name="cash_mode">रोख</string>
+    <string name="card_mode">कार्ड</string>
+    <string name="wallet_mode">वॉलेट</string>
+    <string name="select_payment_type">निवडा देयके प्रकार</string>
+    <string name="invoice_numb">चलन क्रमांक.</string>
+
+
+    <string name="new_">नवीन</string>
+    <string name="edit">संपादित करा</string>
+    <string name="delete">हटवा</string>
+
+    <string name="print_summary">प्रिंट सारांश</string>
+    <string name="lock_date">लॉक तारीख</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="msg">आपल्या आजच्या व्यवसायासाठी शुभेच्छा</string>
+
+    <string name="cash_expenses">रोख खर्च</string>
+    <string name="check_expenses">तपासा खर्च</string>
+    <string name="credit_card_expense">क्रेडिट कार्ड खर्च</string>
+    <string name="online_transfer">ऑनलाइन हस्तांतरण खर्च:</string>
+    <string name="total_expense">एकूण खर्च</string>
+    <string name="show_expense">खर्च दर्शवा</string>
+    <string name="others">इतर</string>
+
+
+    <string name="expense_type">खर्च प्रकार</string>
+    <string name="expense_amount">खर्च रक्कम</string>
+    <string name="expense_mode">खर्च मोड</string>
+    <string name="mode">मोड</string>
+
+    <string name="transaction_date">व्यवहार तारीख</string>
+    <string name="expense_category">खर्च वर्ग</string>
+    <string name="expense_sub">खर्च उप-वर्ग</string>
+    <string name="amount_paid">रक्कम Paid</string>
+    <string name="payment_type">देयके प्रकार</string>
+    <string name="description">वर्णन</string>
+    <string name="submit">सबमिट करा</string>
+    <string name="cancel_">रद्द करा</string>
+    <string name="enter_content">टोकन नंबर प्रविष्ट करा</string>
+
+    <string name="account_name">फीड समक्रमण सेवा</string>
+    <string name="title_entry_detail">प्रविष्टी तपशील</string>
+    <string name="loading">संकालनाची प्रतीक्षा करीत आहे</string>
+    <string name="description_refresh">रिफ्रेश करा</string>
+
+    <!--<string name="account_type">skilllotto.com.retailposmobile.possyncadapter.account</string>-->
+    <!--<string name="authority">skilllotto.com.retailposmobile.possyncadapter</string>-->
+    <string name="email_mobile">मोबाइल/ईमेल प्रविष्ट करा</string>
+    <string name="verify_otp">OTP सत्यापित करा</string>
+    <string name="enter_otp">OTP प्रविष्ट करा</string>
+    <string name="pay">पे</string>
+    <string name="reprint">पुन्हा-मुद्रण करा</string>
+    <string name="multi_mode">मल्टी मोड देयके</string>
+    <string name="name_gstin">नाव / मोबाईल नंबर प्रविष्ट करा</string>
+    <string name="save_to_portal">पोर्टलवर सुरक्षित करा</string>
+    <string name="save_to_gstn">GSTN वर जतन करा</string>
+    <string name="gst_mode">जीएसटी मोड</string>
+
+    <!--Customer Information-->
+    <string name="customer_info">ग्राहक माहिती</string>
+    <string name="customer_mobile">ग्राहक मोबाईल</string>
+    <string name="customer_name">ग्राहक नाव</string>
+    <string name="customer_email_id">ईमेल पत्ता</string>
+    <string name="customer_address">पत्ता</string>
+    <string name="pincode">पिन कोड</string>
+    <string name="State">राज्य</string>
+    <string name="gstin">GSTIN</string>
+    <string name="gstin_state">GSTIN राज्य</string>
+    <string name="country">देश</string>
+    <!--रोखपाल Information-->
+    <string name="cashier_id">रोखपाल आयडी</string>
+    <string name="cashier_name">रोखपाल नाव</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="cashier_address">पत्ता</string>
+    <string name="cashier_email_address">ईमेल पत्ता</string>
+    <string name="password">पासवर्ड</string>
+    <string name="confirm_password">पुष्टी पासवर्ड</string>
+    <string name="cashier_info">रोखपाल माहिती</string>
+    <string name="supplier_info">पुरवठादार माहिती</string>
+    <string name="supplier_name">पुरवठादार नाव</string>
+    <string name="supplier_mobile">संपर्क साधा Number</string>
+    <string name="supplier_id">पुरवठादार आयडी</string>
+    <string name="cust_info">ग्राहक माहिती</string>
+    <string name="shop_name">खरेदी करा नाव</string>
+    <string name="client_name">Saree Mahal</string>
+    <string name="admin_id">प्रशासन आयडी</string>
+    <string name="disst">जिल्हा</string>
+    <string name="shop_city">शहर</string>
+    <string name="shop_pincode">पिन कोड</string>
+    <string name="shop_address">खरेदी करा पत्ता</string>
+    <string name="gross_turnover">निव्वळ उलाढाल:</string>
+    <string name="pan_card">पॅनकार्ड क्रमांक</string>
+    <string name="current_gross_turnover">वर्तमान निव्वळ उलाढाल:</string>
+    <string name="shop_gstin">GSTIN</string>
+    <string name="gstin_username">GSTIN वापरकर्तानाव</string>
+    <string name="user_id">वापरकर्ता-आयडी(FileGSTNow)</string>
+    <string name="pass">पासवर्ड</string>
+    <string name="shop_type">प्रकार:</string>
+    <string name="terminal_id">टर्मिनल आयडी</string>
+    <string name="shop_id">खरेदी करा आयडी</string>
+    <string name="owner_name">मालक नाव</string>
+    <string name="contact_number">संपर्क साधा Number</string>
+    <string name="email_address_">ईमेल पत्ता</string>
+    <string name="spinner_category"></string>
+    <string-array name="states">
+        <item>28-Andhra Pradesh</item>
+        <item>37-Andhra Pradesh(New)</item>
+        <item>12-Arunachal Pradesh</item>
+        <item>18-Assam</item>
+        <item>10-Bihar</item>
+        <item>04-Chandigarh</item>
+        <item>22-Chattisgarh</item>
+        <item>07-Delhi</item>
+
+
+        <item>30-Goa</item>
+        <item>24-Gujarat</item>
+        <item>06-Haryana</item>
+        <item>02-Himachal Pradesh</item>
+        <item>01-Jammu and Kashmir</item>
+        <item>20-Jharkhand</item>
+        <item>29-Karnataka</item>
+        <item>32-Kerala</item>
+
+
+        <item>23-Madhya Pradesh</item>
+        <item>27-Maharashtra</item>
+        <item>14-Manipur</item>
+        <item>17-Meghalaya</item>
+        <item>15-Mizoram</item>
+        <item>13-Nagaland</item>
+        <item>21-Odisha</item>
+        <item>03-Punjab</item>
+        <item>34-PUDUCHEERY</item>
+
+        <item>08-Rajasthan</item>
+        <item>11-Sikkim</item>
+        <item>33-Tamil Nadu</item>
+        <item>36-Telangana</item>
+        <item>16-Tripura</item>
+        <item>09-Uttar Pradesh</item>
+        <item>05-Uttarakhand</item>
+        <item>19-West Bengal</item>
+
+    </string-array>
+
+
+    <string-array name="type_dealer">
+        <item>Composition dealer</item>
+        <item>B2CS</item>
+    </string-array>
+    <string name="saree_mahal">Saree Mahal</string>patanjali
+    <string name="patanjali">Sugal and Damani Group</string>
+    <string name="turn_over">चालू कराr</string>
+    <string name="gst_rate">जीएसटी दर</string>
+    <string name="file_gst_detail">फाइलसाठी जीएसटी पोर्टल आता</string>
+    <string name="for_printing">च्या साठी मुद्रण करा</string>
+    <string name="mandatory_field">* आवश्यक फील्ड सूचित करते</string>
+    <string name="enter">प्रविष्ट करा</string>
+    <string name="clear">साफ करा</string>
+    <string name="unable_to_connect">कनेक्ट करण्यास अक्षम. कृपया आपले इंटरनेट कनेक्शन तपासा.</string>
+    <string name="settings">सेटिंग</string>
+    <string name="contact_us">आमच्याशी संपर्क साधा</string>
+    <string name="import_master">मास्टर्स डेटा आयात करा</string>
+    <string name="import_crm">आयात सीआरएम</string>
+    <string name="edit_shop_profile">दुकान प्रोफाइल संपादित करा</string>
+    <string name="back_up_database">बॅक अप डेटा बेस</string>
+    <string name="restore_data_base">पुनर्संचयित करा डेटा बेस</string>
+    <string name="sync_master">मास्टर डेटा समक्रमित करा</string>
+    <string name="inv_no">आमंत्रण नाही.</string>
+    <string name="total_amt">एकूण रक्कम.</string>
+    <string name="qty_available">प्रमाण उपलब्ध</string>
+    <string name="gst_rate1">GST दर(%)</string>
+    <string name="enter_value">मूल्य प्रविष्ट करा</string>
+    <string name="qty_purchased">प्रमाण खरेदी करा</string>
+    <string name="select_discount">सूट प्रकार निवडा</string>
+    <string name="send_dayend">आपण दिवसाची समाप्ती काल सबमिट करू इच्छिता अहवाल. ?</string>
+    <string name="perc_discount">टक्के</string>
+    <string name="rupay">रूपये</string>
+    <string name="sugal_damani">सुगल आणि दमणी ग्रुप</string>
+    <string name="applicable">लागू</string>
+    <string name="not_applicable">लागू नाहीe</string>
+    <string name="mrp">एमआरपी</string>
+    <string name="low_qty">कमी प्रमाण</string>
+    <string name="select_image">निवडा Image</string>
+    <string name="select_category">निवडा वर्ग</string>
+
+    <string name="ok">ठीक आहे</string>
+    <string name="log_out">बाहेर पडणे</string>
+    <string name="are_you_sure">आपण लॉगआउट करू इच्छिता याची आपल्याला खात्री आहे?</string>
+    <string name="sign_in">साइन इन करा</string>
+
+
+    <string-array name="theme_colors">
+        <item>"Blue"</item>
+        <item>"Cyan"</item>
+        <item>"Gray"</item>
+        <item>"Green"</item>
+        <item>"Purple"</item>
+        <item>"Red"</item>
+    </string-array>
+    <string-array name="theme_colors_entries">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+    <string name="pon">PON</string>
+    <string name="vendor_name">विक्रेता नाव</string>
+    <string name="add_item">जोडा आयटम</string>
+    <string name="delete_item">हटवा आयटम</string>
+    <string name="modify_item">सुधारित करा आयटम</string>
+    <string name="numeric_keyboard">संख्यात्मक कीबोर्ड</string>
+    <string name="new_purchase_order">खरेदी करा Order</string>
+    <string name="stock_evolution">स्टॉक उत्क्रांती</string>
+    <string name="inventory_adjust">इन्व्हेंटरी ऍडजस्टमेंट</string>
+    <string name="card_external">बाह्य कार्ड देयके</string>
+    <string name="printing_mode">मुद्रण करा मोड</string>
+    <string name="vat">व्हॅट आहे सक्षम करा</string>
+    <string name="update_integration">पिनपॅड एकीकरण</string>
+    <string name="enter_text">मजकूर प्रविष्ट करा</string>
+    <string name="enable_invoice">सेट करा चलन क्रमांक.</string>
+    <string name="inventory">इन्व्हेंटरी</string>
+    <string name="category">वर्ग</string>
+    <string name="tid">TID</string>
+    <string name="mobile_num">मोबाइल क्रमांक.</string>
+    <string name="name_l">नाव</string>
+    <string name="user_nam">पिनपॅड वापरकर्ता नाव</string>
+    <string name="pin_pass">पिनपॅड पासवर्ड</string>
+    <string name="check_status">स्थिती तपासा</string>
+    <string name="order_id">ऑर्डर आयडी</string>
+    <string name="load_qty">मात्रा लोड करा</string>
+    <string name="request_qty">विनंतीची मात्रा</string>
+    <string name="delete_category">हटवा वर्ग</string>
+    <string name="add_category">जोडा वर्ग</string>
+    <string name="modify_category">वर्ग सुधारित करा</string>
+    <string name="add_product_category">उत्पादन जोडा वर्ग</string>
+    <string name="logout"> बाहेर पडणे</string>
+    <string name="productname">आयटम नाव</string>
+    <string name="search_invoice">येथे बीव्ह शोधा</string>
+    <string name="enable_footer">तळटीप सक्षम करा</string>
+    <string name="billtax">कर(%)</string>
+    <string name="billamt">रक्कम</string>
+
+
+
+
+    <string name="_login">लॉग इन</string>
+    <string name="startbilling">बिलिंग प्रारंभ करा</string>
+    <string name="start">प्रारंभ करा</string>
+    <string name="cashier_in">रोखपाल माहिती</string>
+    <string name="product_dis">उत्पादन सवलत-</string>
+    <string name="close">बंद </string>
+    <string name="enter_cust_name"> ग्राहक नाव प्रविष्ट करा</string>
+    <string name="getamount">Enter Get Cash Amount</string>
+    <string name="change_amount">Change Amount</string>
+    <string name="share_invoice">Share Invoice</string>
+    <string name="hold">धरून ठेवा</string>
+    <string name="unhold">अन होल्ड</string>
+    <string name="cashier_list">रोख सूची</string>
+    <string name="please_wait"> कृपया थांबा...</string>
+    <string name="enter_cashier_id">कॅशियर प्रविष्ट करा</string>
+    <string name="cashier_notblanck">Cashier Name cannot be Blank</string>
+    <string name="enter_mobileno_bla">Mobile No. cannot be Blank</string>
+    <string name="correctmobileno"> Please enter correct Mobile No.</string>
+    <string name="address_cannot_blanck">Address cannot be Blank</string>
+    <string name="confirm_password_notblanck">Confirm Password cannot be Blank</string>
+    <string name="password_notmatch">Passwords do not match</string>
+    <string name="cashier_insert_succesfull">Cashier detail insert successfully</string>
+    <string name="cashier_id_alreadyexit">Cashier Id already exist</string>
+    <string name="some_p_occoured">Some Problem occurred</string>
+    <string name="cashier_details_upload">Cashier detail updated successfully</string>
+    <string name="enter_suppler_id">Enter Supplier ID.</string>
+    <string name="enter_mail_id">Please enter email id</string>
+    <string name="enter_pin_code">Please enter pin code</string>
+    <string name="enter_state">Please enter state name</string>
+    <string name="enter_country"> Please enter country name.</string>
+    <string name="enter_gstin"> Please enter gstin number</string>
+    <string name="enter_valid_gstn"> Please enter valid gstin number</string>
+    <string name="supplier_insert_succ">Supplier detail insert successfully</string>
+    <string name="supplier_exit">Supplier Id already exist</string>
+    <string name="supplier_insert">Supplier detail insert successfully</string>
+    <string name="not_register_gstin">Not Registered under GST</string>
+    <string name="register_gstin">Registered Under GST</string>
+    <string name="customer_list">Customer List</string>
+    <string name="delete_suss">deleted successfully</string>
+    <string name="user_exist">User exist</string>
+    <string name="user_notexist">User not exist</string>
+    <string name="update_sucess">Details updated successfully</string>
+    <string name="save_sucess">Details saved successfully </string>
+    <string name="que_sucess">Request has been Queued successfully!</string>
+    <string name="massage_send"> Message Sent Successful</string>
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="sms_send"> SMS Send !</string>
+    <string name="sms_fail">SMS Failed !</string>
+    <string name="email_notsent">Email was sent successfully.</string>
+    <string name="email_sent">Email was not sent.</string>
+    <string name="print_share"> print and share</string>
+    <string name="sales_invoice">Sales Invoice</string>
+    <string name="filegstnow">FileGST NOW</string>
+    <string name="loadingq">Loading...</string>
+    <string name="insert_succ">Successfull Insert</string>
+    <string name="purchase_recived">Purchase receive</string>
+    <string name="purchase_order">Purchase Order</string>
+    <string name="produt_informatn">Product Information</string>
+    <string name="add_category_id">Category Id</string>
+    <string name="add_category_name">Category Name</string>
+    <string name="category_des">Category Descripyion</string>
+    <string name="category_brand">Category Brand</string>
+    <string name="delet_item">Delete Items</string>
+    <string name="category_mgmt">Category Management</string>
+    <string name="enter_cat_id">Enter Product ID</string>
+    <string name="enter_product_id">Enter Category ID</string>
+    <string name="product_id_notblanck">Category Name cannot be Blank</string>
+    <string name="catid_not_blanck">Category-ID already available</string>
+    <string name="delet_succ">Delete Successfull</string>
+
+
+
+
+    <string name="order_some_item">Please order some items</string>
+    <string name="enter_token_no">Please enter Token Number</string>
+    <string name="select_ant_product">Select any product first</string>
+    <string name="product_not_availabe">Product not available.</string>
+    <string name="cart_empty">Your is cart not empty?</string>
+    <string name="product_outstock">Product out of stock</string>
+    <string name="some_erroe">There is some error occur to save data. </string>
+    <string name="want_exit">Are you sure you want to exit?</string>
+    <string name="yex">YES</string>
+    <string name="no">No</string>
+    <string name="cust_mobileno">Please enter customer mobile number</string>
+    <string name="register_customber_mobileno">Please register this customer or enter the mobile number.</string>
+    <string name="correct_mobile_no">Please enter correct mobile number</string>
+
+</resources>

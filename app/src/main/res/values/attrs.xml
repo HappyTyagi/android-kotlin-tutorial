@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr format="reference" name="floatingSearchViewStyle"/>
+
+    <declare-styleable name="FloatingSearchView">
+        <attr name="fsv_searchBarWidth" format="dimension|reference"/>
+        <attr name="fsv_menu" format="reference"/>
+        <attr name="fsv_contentBackgroundColor" format="color|reference"/>
+        <attr name="fsv_cornerRadius" format="dimension|reference"/>
+        <attr name="fsv_icon" format="reference"/>
+        <attr name="logo"/>
+        <attr name="contentInsetStart"/>
+        <attr name="contentInsetEnd"/>
+        <attr name="android:divider"/>
+        <attr name="android:dividerHeight"/>
+        <attr name="android:hint"/>
+        <attr name="popupTheme"/>
+    </declare-styleable>
+    <declare-styleable name="CalculatorEditText">
+        <attr name="minTextSize" format="dimension" />
+        <attr name="maxTextSize" format="dimension" />
+        <attr name="stepTextSize" format="dimension" />
+    </declare-styleable>
+    <attr name="panel1" format="reference|color" />
+    <attr name="panel2" format="reference|color" />
+
+    <attr name="backspace" format="reference" />
+
+    <!-- Reference to a style for the menu drawer. -->
+    <attr name="elasticDrawerStyle" format="reference" />
+
+    <!-- Styleables used for styling the menu drawer. -->
+    <declare-styleable name="ElasticDrawer">
+
+        <!-- Drawable to use for the background of the menu. -->
+        <attr name="edMenuBackground" format="color" />
+
+        <!-- The size of the menu. -->
+        <attr name="edMenuSize" format="dimension" />
+
+        <!-- The touch bezel size. -->
+        <attr name="edTouchBezelSize" format="dimension" />
+
+        <!-- The maximum animation duration -->
+        <attr name="edMaxAnimationDuration" format="integer" />
+
+        <!-- The position of the drawer -->
+        <attr name="edPosition" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="rollType" format="enum">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+            <enum name="z" value="2"/>
+        </attr>
+        <attr name="fromDeg" format="float" />
+        <attr name="toDeg" format="float" />
+        <attr name="pivotX" format="fraction"/>
+        <attr name="pivotY" format="fraction" />
+    </declare-styleable>
+
+
+
+
+
+
+    <attr name="timeAmPmBackgroundColor" format="reference|color" />
+    <attr name="timeAmPmSelectBackgroundColor" format="reference|color" />
+    <attr name="timeAmPmTextColor" format="reference|color" />
+
+    <!-- Attrs Switch Time -->
+    <declare-styleable name="SwitchTimeCircleColor">
+        <attr name="timeCircleColor" format="reference|color" />
+        <attr name="timeCenterColor" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="SwitchTimeSelectorColor">
+        <attr name="timeSelectorColor" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="SwitchTimeCircularNumbersColor">
+        <attr name="timeCircularNumbersColor" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="SwitchTimeAMPMColor">
+        <attr name="amPmBackgroundColor" format="reference|color" />
+        <attr name="amPmSelectBackgroundColor" format="reference|color" />
+        <attr name="amPmTextColor" format="reference|color" />
+    </declare-styleable>
+
+    <!-- Attrs Years -->
+    <declare-styleable name="ListPickerYearView">
+        <attr name="minYear" format="reference|integer" />
+        <attr name="maxYear" format="reference|integer" />
+        <attr name="defaultYear" format="reference|integer" />
+    </declare-styleable>
+
+    <!-- Attrs Year Text Indicator -->
+    <declare-styleable name="YearTextIndicator">
+        <attr name="yearSelectBackgroundColor" format="reference|color" />
+        <attr name="yearSelectTextColor" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="TextCircularIndicatorView">
+        <!-- Change color of circle background TODO javadoc-->
+        <attr name="colorCircleIndicator" format="reference|color" />
+    </declare-styleable>
+</resources>

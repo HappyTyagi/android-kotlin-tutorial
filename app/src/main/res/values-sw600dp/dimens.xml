@@ -1,0 +1,129 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="popup_width">250dp</dimen>
+    <dimen name="popup_height">250dp</dimen>
+
+    <dimen name="btn_mar">5.0dip</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="text_view_size">15dp</dimen>
+    <dimen name="child_header_size">35dp</dimen>
+    <dimen name="text_keypad_size">20dp</dimen>
+    <dimen name="button_60dpheight">50dp</dimen>
+    <dimen name="button_60dpweight">80dp</dimen>
+    <dimen name="header_size">50dp</dimen>
+    <dimen name="close">40dp</dimen>
+    <dimen name="cross_icon">20dp</dimen>
+    <dimen name="text_keypad_height">50dp</dimen>
+    <dimen name="adapter_incress_icon">30dp</dimen>
+    <dimen name="adapter_decress_icon">30dp</dimen>
+    <dimen name="adapter_image_height">60dp</dimen>
+    <dimen name="footer_text_size">15dp</dimen>
+    <dimen name="footer_textbolad_size">19dp</dimen>
+    <dimen name="user_profile_avatar_size">88dp</dimen>
+    <dimen name="global_menu_avatar_size">64dp</dimen>
+    <dimen name="default_elevation">8dp</dimen>
+    <dimen name="space5">5dp</dimen>
+    <dimen name="space10">10dp</dimen>
+    <dimen name="space15">20dp</dimen>
+    <dimen name="space20">20dp</dimen>
+    <dimen name="m_left_right">40dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+
+
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+    <dimen name="statusbar_size">24dp</dimen>
+
+    <dimen name="edit_mar">5.0dip</dimen>
+
+
+    <dimen name="header_width">200dp</dimen>
+    <dimen name="title_date_time_label_text">18sp</dimen>
+    <dimen name="btn_fab_size">56dp</dimen>
+    <dimen name="btn_fab_margins">16dp</dimen>
+
+    <dimen name="comment_avatar_size">56dp</dimen>
+
+    <dimen name="publish_photo_thumbnail_size">96dp</dimen>
+    <dimen name="time_label_text">24sp</dimen>
+    <dimen name="time_label_AmPm">12sp</dimen>
+    <dimen name="time_label_height">32dip</dimen>
+    <dimen name="time_label_width">128dip</dimen>
+    <dimen name="time_label_min_width">170dp</dimen>
+    <dimen name="ampm_label_size">16sp</dimen>
+    <dimen name="ampm_left_padding">4dip</dimen>
+    <dimen name="extra_time_label_margin">-30dp</dimen>
+    <dimen name="separator_padding">4dip</dimen>
+
+    <dimen name="date_label_year">16sp</dimen>
+    <dimen name="date_label_month_and_day">26sp</dimen>
+
+    <dimen name="year_label_height">64dip</dimen>
+
+    <!-- Content -->
+    <dimen name="time_circle_width">320dp</dimen>
+
+    <!-- Calendar width and height -->
+    <!-- Portrait -->
+    <dimen name="calendar_width_portrait">340dp</dimen>
+    <dimen name="calendar_height_portrait">390dp</dimen>
+    <!-- Landscape -->
+    <dimen name="calendar_width_land">190dp</dimen>
+    <dimen name="calendar_height_land">220dp</dimen>
+
+    <dimen name="year_item_padding">10dp</dimen>
+
+    <dimen name="date_picker_view_animator_height">270dip</dimen>
+
+    <item name="circle_radius_multiplier" format="float" type="string">0.82</item>
+    <item name="circle_radius_multiplier_24HourMode" format="float" type="string">0.85</item>
+
+    <item name="numbers_radius_multiplier_normal" format="float" type="string">0.81</item>
+    <item name="numbers_radius_multiplier_inner" format="float" type="string">0.60</item>
+    <item name="numbers_radius_multiplier_outer" format="float" type="string">0.83</item>
+
+    <item name="text_size_multiplier_normal" format="float" type="string">0.17</item>
+    <item name="text_size_multiplier_inner" format="float" type="string">0.14</item>
+    <item name="text_size_multiplier_outer" format="float" type="string">0.11</item>
+
+    <item name="ampm_circle_radius_multiplier" format="float" type="string">0.19</item>
+    <item name="selection_radius_multiplier" format="float" type="string">0.16</item>
+
+
+
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="dots_margin_bottom">155dp</dimen>
+    <dimen name="img_width_height">50dp</dimen>
+    <dimen name="slide_title">32dp</dimen>
+    <dimen name="slide_desc">20dp</dimen>
+    <dimen name="mmlarge_size">24dp</dimen>
+    <dimen name="large_size">27dp</dimen>
+    <dimen name="desc_padding">20dp</dimen>
+
+
+    <dimen name="pad_page_margin">-24dip</dimen>
+
+    <dimen name="row_padding_vertical">10dp</dimen>
+
+    <dimen name="standard_margin">16dp</dimen>
+
+    <dimen name="display_primary_text_port">56sp</dimen>
+    <dimen name="display_secondary_text_port">34dp</dimen>
+    <dimen name="panel_1_button_text_port">34sp</dimen>
+    <dimen name="panel_2_button_text_port">20sp</dimen>
+
+    <dimen name="display_primary_text_land">34sp</dimen>
+    <dimen name="display_secondary_text_land">34sp</dimen>
+    <dimen name="panel_1_button_text_land">24sp</dimen>
+    <dimen name="panel_2_button_text_land">20sp</dimen>
+
+</resources>

@@ -1,0 +1,667 @@
+<resources>
+    <string name="app_name">Uphar FineVest</string>
+    <string name="oops">Oops.</string>
+    <string name="no_conn">We encounterd an enexpected problem</string>
+    <string name="check_conn">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Customer_infotmation">Case Login</string>
+    <string name="gurantator_information">Gurantator Information</string>
+    <string name="submission">Submission</string>
+    <string name="credit_clerance">Credit Clerance</string>
+    <string name="pic_load">Pic load</string>
+    <string name="sanctiones">Sanctiones</string>
+    <string name="comunication">Comunication</string>
+
+
+    <string name="vrification">Verfication</string>
+    <string name="emi">EMI</string>
+    <string name="pdc">PDC</string>
+    <string name="vehical_details">Vehical Details</string>
+
+
+    <string name="case_date"> Case Date</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="total_emi">Total EMI</string>
+    <string name="due_date">Due Date</string>
+    <string name="cheque_no">Cheque No.</string>
+    <string name="installment_amount">Installment Amount</string>
+    <string name="payment_mode">Payment Mode</string>
+
+
+    <string name="item_type">Item Type</string>
+    <string name="item_identify">Item Identity</string>
+    <string name="intem_make">Item Make</string>
+    <string name="bill_no">Bill Invoice No</string>
+    <string name="bill_date">Bill Date</string>
+    <string name="policy_name">Policy No</string>
+    <string name="dealer_name">Dealer Name</string>
+    <string name="dsa">DSA</string>
+    <string name="policy_start_date">Policy Start Date</string>
+    <string name="policy_end_date">Policy End Date</string>
+    <string name="insure_name">Insure Name</string>
+
+
+
+
+    <string-array name="gender">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Miss</item>
+    </string-array>
+
+    <string-array name="address_type">
+        <item>Permanent</item>
+        <item>Current</item>
+        <item>Correspondence</item>
+    </string-array>
+
+    <!--City-->
+    <!---->
+    <!---->
+    <!---->
+    <!--Pin Code-->
+    <!---->
+
+    <string name="customer_mame">Customer Name</string>
+    <string name="father_name">Customer Father Name</string>
+    <string name="dob">Customer Date of Birth</string>
+    <string name="contact_no">Customer Contact No</string>
+    <string name="addhar_no">Customer Adhaar No</string>
+    <string name="loan_amount">Customer Laon Amount</string>
+    <string name="loan_duration">Customer Laon Duration</string>
+    <string name="gurntre">Gurantor</string>
+    <string name="addres">Customer Address</string>
+    <string name="city">Customer City</string>
+    <string name="state">Customer State</string>
+    <string name="next_payment_mode">Customer Next Payment Date</string>
+    <string name="period_balance">Customer Period balance</string>
+    <string name="pin_code">Customer Pin Code</string>
+    <string name="pay_mode">Customer Payment Mode (Cash/Card)</string>
+    <string name="cityy">Customer City</string>
+    <string name="address_type">Customer Address Type</string>
+
+
+
+    <string name="guarantor_mame">Guarantor Name</string>
+    <string name="guarantor_father_name">Guarantor Father Name</string>
+    <string name="guarantor_dob">Guarantor Date of Birth</string>
+    <string name="guarantor_contact_no">Guarantor Contact No</string>
+    <string name="guarantor_addhar_no">Guarantor Adhaar No</string>
+    <string name="guarantor_addres">Guarantor Address</string>
+    <string name="guarantor_state">Guarantor State</string>
+    <string name="guarantor_next_payment_mode">Guarantor Next Payment Date</string>
+    <string name="guarantor_period_balance">Guarantor Period balance</string>
+    <string name="guarantor_pin_code">Guarantor Pin Code</string>
+    <string name="guarantor_pay_mode">Guarantor Payment Mode (Cash/Card)</string>
+    <string name="guarantor_city">Guarantor City</string>
+    <string name="guarantor_address_type">Guarantor Address Type</string>
+    <string name="guarantor_district">Guarantor District</string>
+
+    <string-array name="vehical_type">
+        <item>2 Wheeler</item>
+        <item>3 Wheeler</item>
+    </string-array>
+
+
+
+
+
+    <string name="table">Table No.</string>
+    <string name="invoice">Bill Number</string>
+    <string name="cashier">Cashier Name</string>
+    <string name="status">Payment Status</string>
+    <string name="fsv.transition.search.layout">fsv_transition_search_layout</string>
+    <string name="search_product">Search Product</string>
+    <string name="add_product">Add Product</string>
+    <string name="date">Date</string>
+    <string name="invoice_num">Invoice No:-</string>
+    <string name="inv_num">Inv No-</string>
+    <string name="rupees">\u20B9</string>
+    <string name="inv_no">Inv No.</string>
+    <string name="total_amt">Total Amt.</string>
+    <string name="product_name">Product Name</string>
+    <string name="share_invoice">Share Inv.</string>
+    <string name="product_id">Product Id</string>
+    <string name="qty">Qty</string>
+    <string name="tax_percent">Tax(%)</string>
+    <string name="amt">Amt.</string>
+    <string name="amount">Amount</string>
+    <string name="disc">Disc.</string>
+    <string name="taxable_amount">Taxable Amount :-</string>
+    <string name="total_tax">Total Tax :-</string>
+    <string name="cgst">CGST:-</string>
+    <string name="sgst">SGST:-</string>
+    <string name="total_tax_amnt">Total Tax</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="proceeds">Proceed</string>
+    <string name="search_here">Search product here</string>
+    <string name="search_invoice">Search Invoice here</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="wallet">Wallet</string>
+    <string name="cheque">Cheque</string>
+    <string name="credit_sales">Credit Sales</string>
+    <string name="multi_mode">Multi Mode Payments</string>
+    <string name="reprint">Re-Print</string>
+    <string name="split">Split</string>
+    <string name="read">Read Only</string>
+    <string name="both">Read and Write Both</string>
+    <string name="discount">Discount</string>
+    <string name="loyalty">Loyalty</string>
+    <string name="crm">CRM</string>
+    <string name="rescan">Scan</string>
+    <string name="table_no">Enter Table no</string>
+    <!--instruction-->
+    <string name="toast_1">Transaction print,use the AIDL mode!</string>
+    <string name="toast_2">The service has been disconnected!</string>
+    <string name="toast_3">Bluetooth device is unavailable</string>
+    <string name="toast_4">Bluetooth device not detected. Please open Bluetooth!</string>
+    <string name="toast_5">Not Found InnterPrinter!</string>
+    <string name="toast_6">Bluetooth connect failed!</string>
+    <string name="toast_7"> Only a single Qr code is printed for the AIDL mode</string>
+    <string name="toast_8">Now QrCode size must be less than 7!</string>
+
+    <string name="reports">Reports</string>
+    <string name="payments">Payment</string>
+    <string name="end_of_day">End of Day</string>
+    <string name="day_end_report">Day end report</string>
+    <string name="item_wise_report">Item wise report</string>
+    <string name="select_date">Select date</string>
+    <string name="sales">Sales</string>
+    <string name="rate_per_item">Rate/item</string>
+    <string name="item">Item</string>
+    <string name="quantity">Quantity</string>
+    <string name="hsn">HSN</string>
+    <string name="discnt">Discnt</string>
+    <string name="tax">Tax</string>
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+
+    <string name="total_product_value">Total Product Value:</string>
+    <string name="discnt_on_total">Discount on Total:</string>
+    <string name="total_tax_">Total Tax:</string>
+    <string name="rounding">Rounding:</string>
+    <string name="total_sales">Total Sales:</string>
+    <string name="sales_tax_summary">Sales Tax Summary</string>
+    <string name="cgst_">CGST On Sub Total:</string>
+    <string name="sgst_">SGST On Sub Total:</string>
+    <string name="payment_collection">Payment Collection</string>
+    <string name="cash_">Cash:</string>
+    <string name="payment_recieved">Total Payment Received:</string>
+
+    <string name="name">Name</string>
+    <string name="under">Under</string>
+    <string name="order_complete">Order Complete</string>
+    <string name="amount_">Amount   :</string>
+    <string name="tax_amnt">Tax Amt. :</string>
+
+    <string name="mobikwik">Mobikwik Wallet</string>
+    <string name="phone_pay">PhonePe Wallet</string>
+    <string name="Oxigen_pay">Oxigen  Wallet</string>
+    <string name="paytm_wallet">Paytm Wallet</string>
+    <string name="payworld">Payworld Wallet</string>
+
+
+    <!--                              accounting screen                         -->
+    <string name="accounting">Accounting</string>
+    <string name="master">Masters</string>
+    <string name="account_master">Account Masters</string>
+    <string name="vouchers">Vouchers</string>
+    <string name="receipts">Receipt</string>
+    <string name="journal">Journal</string>
+    <string name="contra">Contra</string>
+    <string name="reports_">Reports</string>
+    <string name="purchase">Purchase</string>
+    <string name="day_book">DayBook</string>
+    <string name="ledger">Ledger</string>
+    <string name="cash_bank">Cash/Bank Book</string>
+    <string name="group_summary">Group Summary</string>
+    <string name="register">Register</string>
+    <string name="list_account">List of Account</string>
+    <string name="address_book">Address Book</string>
+    <string name="trial_balance">Trial balance</string>
+    <string name="final_report">Final Report</string>
+    <string name="balance">Balance</string>
+    <string name="tin_gst">TIN/GST No</string>
+    <string name="under_group">Under Group</string>
+    <string name="type_">Type</string>
+    <string name="transaction">Transactions</string>
+    <string name="dates">Date</string>
+    <string name="type">Type</string>
+    <string name="total">Total</string>
+    <string name="money_in">Money In</string>
+    <string name="money_out">Money Out</string>
+    <string name="total_cash_in_amnt">Total Cash-in Amount:</string>
+    <string name="total_cash_out_amnt">Total Cash-out Amount:</string>
+    <string name="set_date">Set Date</string>
+    <string name="default_money">\u20B90</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact</string>
+    <string name="email_address">Email Address</string>
+    <string name="opening_stock_date">Opening Stock Date</string>
+    <string name="opening_stock">Opening Stock</string>
+    <string name="closing_stock_date">Closing Stock Date</string>
+    <string name="closing_stock">Closing Stock</string>
+    <string name="search">Search</string>
+    <string name="update">Update</string>
+    <string name="export_to_excel">Export to Excel</string>
+    <string name="save">Save</string>
+    <string name="show_stock">Show Stock</string>
+    <string name="party_cash">Party/Cash</string>
+    <string name="purchase_ac">Purchase A/c</string>
+    <string name="sales_ac">Sales A/c</string>
+    <string name="tax_1_name">Tax 1 Name</string>
+    <string name="tax_2_name">Tax 2 Name</string>
+    <string name="less_1_name">Less 1 Name</string>
+    <string name="less_2_name">Less 2 Name</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="voucher_type">Vouch. Type</string>
+    <string name="voucher_number">Vouch. No.</string>
+    <string name="debit">Debit</string>
+    <string name="crdt">Credit</string>
+    <string name="cr">Cr</string>
+    <string name="db">Db</string>
+    <string name="runn_balance">Running Balance</string>
+    <string name="runn_balance_">Run. Bal.</string>
+    <string name="day_book_report">Day Book Report</string>
+    <string name="opening_balance">Opening Balance : </string>
+    <string name="current_total">Current Total : </string>
+    <string name="closing_balan">Closing Balance : </string>
+    <string name="select_ledger">Select Ledger</string>
+    <string name="other_text_hint">Add Text</string>
+
+
+    <string name="all">All</string>
+    <string name="gross">Gross</string>
+    <string name="add_tax1">Add. Tax 1</string>
+    <string name="add_tax2">Add. Tax 2</string>
+    <string name="less_tax1">Less Tax 1</string>
+    <string name="less_tax2">Less Tax 2</string>
+    <string name="cash_bank_book_report">Cash/Bank Book Report</string>
+    <string name="default_amount">0.00</string>
+    <string name="profit_loss">Profit \u0026 Loss</string>
+    <string name="balance_sheet">Balance Sheet</string>
+
+    <string name="from_date">From Date :</string>
+    <string name="to_date">To Date :</string>
+    <string name="from_date_">From Date</string>
+    <string name="to_date_">To Date</string>
+    <string name="gst">GST</string>
+    <string name="sale_invoice">Sale Invoice</string>
+    <string name="purchase_invoice">Purchase Invoice</string>
+    <string name="monthly_filling">Monthly Filling</string>
+    <string name="receipt_voucher">Receipt Voucher</string>
+    <string name="current_period">Curr. Period </string>
+    <string name="particular">Particulars</string>
+    <string name="part">Partc.</string>
+    <string name="credit">Credit</string>
+    <string name="dr_">Dr.</string>
+    <string name="cr_">Cr.</string>
+    <string name="cr_to">Cr / To </string>
+    <string name="dr_by">Dr / By </string>
+    <string name="sale">Sale</string>
+    <string name="narrartion">Narration</string>
+    <string name="sno">Sr. No</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="payments_v">Payment Voucher</string>
+
+
+    <!--   Printer Activity            -->
+
+
+    <string name="printer_finish">The print data is complete</string>
+    <string name="printer_need_paper">The printer is out of paper,Please load paper and try again</string>
+    <string name="printer_gray1">Set the printer grayscale to level 1</string>
+    <string name="printer_gray1_success">Set the printer grayscale to level 1 success</string>
+    <string name="printer_gray_exception">Exception occurred in Setting the printer grayscale</string>
+    <string name="printer_gray2">Set the printer grayscale to level 2</string>
+    <string name="printer_gray2_success">Set the printer grayscale to level 2 success</string>
+    <string name="printer_gray3">Set the printer grayscale to level 3</string>
+    <string name="printer_gray3_success">Set the printer grayscale to level 3 success</string>
+    <string name="printer_gray4">Set the printer grayscale to level 4</string>
+    <string name="printer_gray4_success">Set the printer grayscale to level 4 success</string>
+    <string name="printer_textsize_bigger">The font gets larger test data</string>
+    <string name="printer_textsize_blod">Bold print test data</string>
+    <string name="printer_left">Print the test data to left</string>
+    <string name="printer_center">Print the test data to center</string>
+    <string name="price">Price</string>
+    <string name="printer_right">Print the test data to right</string>
+    <string name="printer_underline">Underline test data</string>
+    <string name="printer_amount">Amount:</string>
+    <string name="printer_newline">Newline test data</string>
+    <string name="printer_acceptorid_name">Business Name Test Data</string>
+    <string name="printer_line_distance">Line spacing and character spacing content adjustment</string>
+    <string name="printer_left_distance">Left margin</string>
+    <string name="printer_device_busy">The printer device is busy</string>
+    <string name="printer_success">Print success</string>
+    <string name="printer_lack_paper">The printer is out of paper</string>
+    <string name="printer_over_heigh">The printer is overheating</string>
+    <string name="printer_over_heat">The printer is hot</string>
+    <string name="printer_low_power">The printer is low on power</string>
+    <string name="printer_other_exception_code">Other exceptions, exception code:</string>
+    <string name="printer_spit_success">The printer spit paper success</string>
+    <string name="printer_spit_exception">The printer spit paper exception:</string>
+    <string name="printer_status_exception">Exception occurred in getting the printer status</string>
+    <string name="printer_init_success">Initialize the print parameters success</string>
+    <string name="printer_init_exception">Initialization of printer parameters failed</string>
+    <string name="printer_textsize_normal">Normal font</string>
+    <string name="printer_textsize_small">Small font</string>
+    <string name="printer_texisize_higher">Times higher</string>
+    <string name="printer_textsize_wider">Times wide</string>
+    <string name="printer_higher_wider">Times highe and times wide</string>
+    <string name="print_qr_code">QR Code</string>
+    <string name="input_qrcode_msg">QR code information, no input default print 450 characters</string>
+    <string name="bind_service_fail">Bind service failed</string>
+    <string name="bind_service_success">Bind service success</string>
+    <string name="TextView">TextView</string>
+
+
+    <string name="save_all">Save All</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="amount_include_gst">Amount Including GST</string>
+    <string name="user_name">User Name </string>
+
+    <string name="rate">Rate(%)</string>
+
+    <string name="invoice_number">Invoice Number:-  </string>
+    <string name="item_name">Item Name</string>
+
+    <string name="cash_mode">Cash</string>
+    <string name="card_mode">Card</string>
+    <string name="wallet_mode">Wallet</string>
+
+    <string name="select_payment_type">Select Payment Type</string>
+    <string name="invoice_numb">Invoice No.</string>
+
+
+    <string name="clear">CLEAR</string>
+    <string name="productname">ITEM NAME</string>
+    <string name="productid">ITEM ID</string>
+    <string name="unit">UNITS</string>
+    <string name="billtax">TAX(%)</string>
+    <string name="billrateamt">PRICE</string>
+    <string name="billamt">AMOUNT</string>
+
+    <string name="logout">   Logout</string>
+    <string name="voids">Void</string>
+    <string name="hold">Hold</string>
+    <string name="loyality">Loyalty</string>
+    <string name="upi">Search</string>
+    <string name="pay_bharat">Pay Bharat</string>
+    <string name="gift_card">Gift Card</string>
+    <string name="total_qty">Total Qty</string>
+
+    <string name="new_">NEW</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+
+    <string name="print_summary">PRINT SUMMARY</string>
+    <string name="lock_date">LOCK DATE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="cancelled">Do you want to continue?</string>
+    <string name="cash_expenses">Cash Expenses</string>
+    <string name="check_expenses">Cheque Expenses</string>
+    <string name="credit_card_expense">Credit Card Expenses</string>
+    <string name="online_transfer">Online Transfer Expenses:</string>
+    <string name="total_expense">Total Expenses</string>
+    <string name="show_expense">Show Expenses</string>
+    <string name="others">Others</string>
+    <string name="yes_">Yes</string>
+    <string name="no_">No</string>
+
+
+    <string name="expense_type">Expense Type</string>
+    <string name="expense_amount">Expense Amount</string>
+    <string name="expense_mode">Expense Mode</string>
+    <string name="mode">Mode</string>
+
+    <string name="transaction_date">Transaction Date</string>
+    <string name="expense_category">Expense Category</string>
+    <string name="expense_sub">Expense Sub-Category</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="cancel_">Cancel</string>
+    <string name="delete_category">Delete Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="modify_category">Modify Category</string>
+
+    <string name="account_name">FeedSync Service</string>
+    <string name="title_entry_detail">Entry Detail</string>
+    <string name="loading">Waiting for sync...</string>
+    <string name="description_refresh">Refresh</string>
+
+    <string name="account_type">skilllotto.com.finvest.possyncadapter.account</string>
+    <string name="authority">skilllotto.com.finvest.possyncadapter</string>
+    <string name="email_mobile">Enter mobile/email</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="pay">Pay</string>
+
+    <string name="save_to_portal">Save To FileGSTNow Portal</string>
+    <string name="save_to_gstn">Save To GSTN</string>
+    <string name="gst_mode">GST Mode</string>
+
+    <!--Customer Information-->
+    <string name="customer_info">Customer Information</string>
+    <string name="customer_mobile">Customer Mobile *</string>
+    <string name="customer_name">Customer Name *</string>
+    <string name="customer_email_id">Email Address</string>
+    <string name="customer_address">Address</string>
+    <string name="district">District</string>
+    <string name="pincode">Pincode</string>
+    <string name="State">State</string>
+    <string name="gstin">GSTIN *</string>
+    <string name="gstin_state">GSTIN State *</string>
+    <string name="country">Country</string>
+
+    <!--Cashier Information-->
+    <string name="cashier_id">Cashier ID</string>
+    <string name="cashier_name_id">Cashier ID/User Name</string>
+    <string name="cashier_name">Cashier Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="cashier_address">Address</string>
+    <string name="cashier_email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cashier_info">Cashier Information</string>
+
+
+    <!--Supplier Information-->
+    <string name="supplier_info">Supplier Information</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_mobile">Contact Number</string>
+    <string name="supplier_id">Supplier ID</string>
+
+    <string name="shop_name">Shop Name</string>
+
+
+    <string name="imei_number">IMEI Number/Sr No.</string>
+    <string name="finance_compnay_name">Finance company name</string>
+
+    <string name="vedant_communication">Vedant Communication</string>
+    <string name="sugal_damani">Sugal \u0026 Damani Group</string>
+    <string name="admin_id">Admin id *</string>
+    <string name="disst">District</string>
+    <string name="shop_city">City</string>
+    <string name="shop_pincode">Pincode</string>
+    <string name="shop_address">Shop Address</string>
+    <string name="gross_turnover">Gross Turnover:</string>
+    <string name="current_gross_turnover">Current Gross Turnover:</string>
+    <string name="shop_gstin">GSTIN</string>
+    <string name="gstin_username">GSTIN Username</string>
+    <string name="user_id">User-ID(FileGSTNow)</string>
+    <string name="pass">Password</string>
+    <string name="shop_type">Types:</string>
+    <string name="terminal_id">Terminal ID *</string>
+    <string name="shop_id">Shop ID *</string>
+    <string name="pan_card">PanCard No:</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email_address_">Email Address</string>
+    <string name="spinner_category"></string>
+    <string-array name="states">
+        <item>28-Andhra Pradesh</item>
+        <item>37-Andhra Pradesh(New)</item>
+        <item>12-Arunachal Pradesh</item>
+        <item>18-Assam</item>
+        <item>10-Bihar</item>
+        <item>04-Chandigarh</item>
+        <item>22-Chattisgarh</item>
+        <item>07-Delhi</item>
+
+
+        <item>30-Goa</item>
+        <item>24-Gujarat</item>
+        <item>06-Haryana</item>
+        <item>02-Himachal Pradesh</item>
+        <item>01-Jammu and Kashmir</item>
+        <item>20-Jharkhand</item>
+        <item>29-Karnataka</item>
+        <item>32-Kerala</item>
+
+
+        <item>23-Madhya Pradesh</item>
+        <item>27-Maharashtra</item>
+        <item>14-Manipur</item>
+        <item>17-Meghalaya</item>
+        <item>15-Mizoram</item>
+        <item>13-Nagaland</item>
+        <item>21-Odisha</item>
+        <item>03-Punjab</item>
+        <item>34-PUDUCHEERY</item>
+        <item>08-Rajasthan</item>
+        <item>11-Sikkim</item>
+        <item>33-Tamil Nadu</item>
+        <item>36-Telangana</item>
+        <item>16-Tripura</item>
+        <item>09-Uttar Pradesh</item>
+        <item>05-Uttarakhand</item>
+        <item>19-West Bengal</item>
+
+    </string-array>
+    <string name="unable_to_connect">Unable to connect.Please check your Internet connection.</string>
+    <string name="enter">ENTER</string>
+    <string name="import_master">Import Masters Data</string>
+
+    <string name="import_recipee">Import Recipee</string>
+    <string name="import_recipee_product">Import Recipee Product</string>
+
+    <string name="import_crm">Import CRM</string>
+    <string name="edit_shop_profile">Edit Shop Profile</string>
+    <string name="back_up_database">Backup Database</string>
+    <string name="restore_data_base">Restore Database</string>
+    <string name="sync_master">Sync Master Data</string>
+    <string name="settings">Settings</string>
+    <string name="sync_updated_price_list">Sync Updated Price List</string>
+    <string name="upload_invoice_list">Upload Invoice List</string>
+    <string name="update_integration">PinPad Integration</string>
+    <string name="upload_master_data">Upload Master Data</string>
+    <string name="feedback_enable">Enable Feedback</string>
+    <string name="inventory_manage">Inventory Manage</string>
+    <string-array name="type_dealer">
+        <item>Composition dealer</item>
+        <item>B2CS</item>
+
+    </string-array>
+    <string name="printing_mode">Printing Mode</string>
+    <string name="igst_mode">IGST Enable</string>
+    <string name="igst_">IGST On Sub Total :</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_imei_number">Enter IMEI Number</string>
+    <string name="enter_value">Enter value</string>
+    <string name="name_gstin">Enter Name/Mobile No</string>
+    <string name="numeric_keyboard">Numeric KeyBoard</string>
+    <string name="edit_mrp">Editable MRP</string>
+    <string name="enable_imei">Enable IMEI/SR No.</string>
+    <string name="enable_footer">Enable Footer</string>
+    <string name="enable_tax">Enable Tax</string>
+    <string name="qty_available">Quantity Available</string>
+    <string name="need_available">Need Available</string>
+    <string name="gst_rate">GST Rate(%)</string>
+    <string name="qty_purchased">Quantity Purchased</string>
+    <string name="select_discount">Choose discount type</string>
+    <string name="perc_discount">Percent</string>
+    <string name="rupay">Rupees</string>
+    <string name="inventory">Inventory</string>
+    <string name="new_purchase_order">Purchase Order</string>
+    <string name="stock_evolution">Stock Evolution</string>
+    <string name="inventory_adjust">Inventory Adjustment</string>
+    <string name="add_item">Add Item</string>
+    <string name="inclusive">Is Tax Inclusive</string>
+    <string name="isImeienable">Is IMEI Enable</string>
+    <string name="other_text">Is Other Text Enable</string>
+    <string name="exclusive">Exclusive</string>
+    <string name="tax_type">Tax Type</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="modify_item">Modify Item</string>
+    <string name="category">Category</string>
+    <string name="enter_text">Enter Text</string>
+
+    <string name="applicable">Applicable</string>
+    <string name="not_applicable">Not Applicable</string>
+    <string name="mrp">MRP</string>
+    <string name="low_qty">Low Quantity</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_category">Select Category</string>
+    <string name="mandatory_field">* indicates required field</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="cheque_details">Cheque Details</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_bank_name">Enter Bank Name</string>
+    <string name="enter_cheque_number">Enter Cheque Number</string>
+    <string name="enter_paid_amount">Enter paid amount</string>
+    <string name="ok">Ok</string>
+    <string name="log_out">Log Out</string>
+    <string name="are_you_sure">Are you sure you want to logout?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">User Login</string>
+    <string name="shareinvoice">Share Inv.</string>
+    <string name="pon">PON</string>
+    <string name="vendor_name">Vendor Name</string>
+    <string name="file_gst_detail">For File GST NOW Portal</string>
+    <string name="for_printing">For Printing</string>
+
+
+    <string-array name="theme_colors">
+        <item>"Blue"</item>
+        <item>"Cyan"</item>
+        <item>"Gray"</item>
+        <item>"Green"</item>
+        <item>"Purple"</item>
+        <item>"Red"</item>
+    </string-array>
+    <string-array name="theme_colors_entries">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+
+    <string name="tid">TID</string>
+    <string name="mobile_num">Mob. No.</string>
+    <string name="name_l">Name</string>
+    <string name="user_nam">PinPad UserName</string>
+    <string name="pin_pass">PinPad Password</string>
+    <string name="check_status">Check Status</string>
+    <string name="order_id">Order Id</string>
+    <string name="load_qty">Load Qty</string>
+    <string name="request_qty">Request Qty</string>
+    <string name="round_figure">Round Figure</string>
+    <string name="add_product_category">Add Product Category</string>
+    <string name="card_external">External Card Payment</string>
+
+</resources>
